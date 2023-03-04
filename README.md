@@ -1,3 +1,3 @@
 # CCU-operation-system
 
-LAB for CCU OS 
+LAB for CCU OS of COMM
